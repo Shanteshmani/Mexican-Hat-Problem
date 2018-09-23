@@ -25,6 +25,7 @@
 
 
 rm(list=ls(all=TRUE))
+hello = "hello there"
 
 # Ensuring the correct packages are installed before executing the script
 
